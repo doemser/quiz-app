@@ -1,3 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background: pink;
+}
+
+.app-title {
+  font-size: x-large;
+  text-align: center;
+  border: 1px solid black;
 }
